@@ -4,7 +4,6 @@ import { HackersService } from 'src/app/services/hackers.service';
 import { Hacker } from 'src/app/models/hacker';
 
 
-
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
