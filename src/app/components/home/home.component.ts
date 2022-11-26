@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+
 import * as Aos from 'aos';
+
 import { HackersService } from 'src/app/services/hackers.service';
 import { Hacker } from 'src/app/models/hacker';
 
